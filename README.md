@@ -1,6 +1,6 @@
 # harrypotter
 
-> A Vue.js project
+> Integrating HP-Api and Giphy API with VUEJS
 
 ## Build Setup
 
@@ -16,3 +16,5 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# coded with <3 by Ismael Mammadzada
